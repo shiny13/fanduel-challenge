@@ -1,2 +1,2 @@
-# fanduel-challenge
+# FanDuel Challenge
 Challenge by FanDuel
